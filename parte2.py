@@ -2,7 +2,6 @@
 """
 Created on Sat Nov 27 13:44:08 2021
 
-@author: vitok
 """
 
 """
