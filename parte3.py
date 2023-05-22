@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 27 13:53:24 2021
 
-@author: vitok
+
 """
 """
 Funcionalidade: Tentar logar no site
